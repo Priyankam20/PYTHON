@@ -1,0 +1,7 @@
+pyhon --> p _ _ _ o _ 6
+
+1.Word
+2.we'll have to create dashes as per the number of words
+3.checkfunction --> to check whether the alphabets guessed by the user is correct or not
+4.so we need a function to update current status
+5.function to check whether game has ended or not
