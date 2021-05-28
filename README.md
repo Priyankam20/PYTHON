@@ -1,4 +1,4 @@
 # PYTHON
 
 Hello.
-This repo conatin my work and practice code that I did while learning Python.
+This repo contains my work and practice code that I did while learning Python.
